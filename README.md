@@ -15,6 +15,7 @@ Le but de ce repository est de me servir de base de connaissance en algorithmie 
 * [Mime Type](/Puzzles_Faciles/mimeType.php)
 * [TicTacToe](/Puzzles_Faciles/ticTacToe.php)
 * [Encryption/Decryption of Enigma Machine](/Puzzles_Faciles/enigmaMachine.php)
+* [RockPaperScissorsLizardSpock](/Puzzles_Faciles/RockPaperScissorsLizardSpock.php)
 
 ## Liste des puzzles moyens :
 
