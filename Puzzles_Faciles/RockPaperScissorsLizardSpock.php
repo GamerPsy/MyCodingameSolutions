@@ -42,9 +42,5 @@ do{
 }
 while(count($joueurs) > 1);
 
-
-foreach($joueurs as $gagnant){
-    echo $gagnant["number"] . "\n";
-    $opposants = implode(" ", $gagnant["opponents"]);
-    echo $opposants . "\n";
-}
+echo $joueurs[0]["number"] . "\n";
+echo implode(" ", $joueurs[0]["opponents"]);
