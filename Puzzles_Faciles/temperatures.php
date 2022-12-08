@@ -37,5 +37,3 @@ else{
     echo $tabPos[array_key_first($tabPos)];
 }
 }
-
-?>
