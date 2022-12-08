@@ -20,3 +20,4 @@ Le but de ce repository est de me servir de base de connaissance en algorithmie 
 ## Liste des puzzles moyens :
 
 * [ShadowOfTheKnight_episode_1](/Puzzles_Moyens/ShadowOfTheKnight_episode_1.php)
+* [ThereIsNoSpoon_episode_1](/Puzzles_Moyens/ThereIsNoSpoon_episode_1.php)
